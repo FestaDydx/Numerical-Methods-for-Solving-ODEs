@@ -8,3 +8,5 @@ Numerical Methods are employed to find numerical approximations to Ordinary Diff
 3. Runge Kutta 3rd Order Method, and 
 
 4. Runge Kutta 4th Order Method.
+
+Note: This python codes compares the numerical approximations to the analytical solutions of the ordinary differential equations.
